@@ -8,7 +8,7 @@ export default function Dashboard() {
       <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6 mb-10">
         <div className="bg-white shadow rounded-xl p-6">
           <p className="text-gray-500 text-sm">Total Employees</p>
-          <p className="text-3xl font-bold mt-2">54</p>
+          <p className="text-3xl font-bold mt-2">40</p>
         </div>
 
         <div className="bg-white shadow rounded-xl p-6">
@@ -18,12 +18,12 @@ export default function Dashboard() {
 
         <div className="bg-white shadow rounded-xl p-6">
           <p className="text-gray-500 text-sm">On Leave</p>
-          <p className="text-3xl font-bold mt-2">3</p>
+          <p className="text-3xl font-bold mt-2">10</p>
         </div>
 
         <div className="bg-white shadow rounded-xl p-6">
           <p className="text-gray-500 text-sm">Departments</p>
-          <p className="text-3xl font-bold mt-2">6</p>
+          <p className="text-3xl font-bold mt-2">5</p>
         </div>
       </div>
 
