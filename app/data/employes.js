@@ -5,7 +5,7 @@ export const employes =[
         password:"amal123"
     },
       {
-        fullName :"maram mbark",
+        fullName :"mal",
         email:"maram@gmail.com",
         password:"amal123"
     },
