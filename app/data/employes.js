@@ -9,5 +9,10 @@ export const employes =[
         email:"maram@gmail.com",
         password:"amal123"
     },
+       {
+        fullName :"maram mbark",
+        email:"maram@gmail.com",
+        password:"amal123"
+    },
     
 ] 
