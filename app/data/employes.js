@@ -5,9 +5,10 @@ export const employes =[
         password:"amal123"
     },
       {
-        fullName :"mal",
+        fullName :"grinato",
         email:"maram@gmail.com",
         password:"amal123"
     },
+
     
 ] 
