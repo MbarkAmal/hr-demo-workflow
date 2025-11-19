@@ -66,6 +66,14 @@ export default function Dashboard() {
                 <td className="p-4">Finance</td>
                 <td className="p-4">2025-03-05</td>
               </tr>
+                 {/* row 3 */}
+              <tr className="border-b hover:bg-gray-50">
+                <td className="p-4">amal </td>
+                <td className="p-4">amal@gamil.com</td>
+                <td className="p-4">Finance</td>
+                <td className="p-4">2025-03-05</td>
+              </tr>
+
             </tbody>
           </table>
         </div>
