@@ -1,5 +1,5 @@
 SCRIM17  regle 1 
 
 scrum 21 
-...
+... .
  scrum 22
