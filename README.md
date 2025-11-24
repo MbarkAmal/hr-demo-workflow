@@ -1,8 +1,6 @@
-SCRIM17  regle 1 
 
-scrum 21 
-... .
- scrum 22
- scrum 20
 
-PD -1
+
+
+statut tache PD-2 afaire ==> en statut cours  when i create a commit with #in-progress 
+regle 1
